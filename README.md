@@ -15,11 +15,13 @@ I'm David, a FullStack web developer from Czech Republic.
 ![C](https://img.shields.io/badge/-C-000?&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp)
+![GLSL](https://img.shields.io/badge/-GLSL-000?&logo=opengl)
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=007396)
+
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 

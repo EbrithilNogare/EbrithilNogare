@@ -17,7 +17,7 @@ I'm David, a FullStack web developer from Czech Republic.
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp)
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Java](https://img.shields.io/badge/-Java-000?&logo=java)
+![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=007396)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)

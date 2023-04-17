@@ -4,7 +4,7 @@
 
 I'm David, a FullStack web developer from Czech Republic.
 
-[![](https://img.shields.io/badge/-Website-FFF)](https://nogare.cz)
+[![](https://img.shields.io/badge/-www.nogare.cz-000)](https://nogare.cz)
 
 
 ### Languages

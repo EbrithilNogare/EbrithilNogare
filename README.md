@@ -1,8 +1,38 @@
+###  Hi there, I'm Nogare <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
+
+I'm David, a FullStack web developer from Czech Republic.
+
+[![](https://img.shields.io/badge/-Website-FFF)](https://nogare.cz)
+
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=007396)
+
+### Technologies
+
+![](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![](https://img.shields.io/badge/-React-000?&logo=React)
+![](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+
+### Other
+
+![](https://img.shields.io/badge/-HTML-000?&logo=html5)
+![](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
+![](https://img.shields.io/badge/-Sass-000?&logo=sass&logoColor=CC6699)
+![](https://img.shields.io/badge/-Git-000?&logo=Git)
+
+
+
+
+
 ![EbrithilNogare's GitHub stats](https://github-readme-stats.vercel.app/api?username=EbrithilNogare&show_icons=true&theme=tokyonight)
 
 
-<h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebrithilnogare&label=Profile%20views&color=0e75b6&style=flat" alt="ebrithilnogare" /> </p>
 
@@ -19,7 +49,16 @@
 <p><a href="https://www.buymeacoffee.com/nogare"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nogare" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebrithilnogare&show_icons=true&locale=en&layout=compact" alt="ebrithilnogare" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ebrithilnogare&show_icons=true&locale=en" alt="ebrithilnogare" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebrithilnogare&" alt="ebrithilnogare" /></p>
+
+
+
+
+
+
+
+
+
+
+
+

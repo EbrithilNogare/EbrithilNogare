@@ -59,18 +59,3 @@ I'm David, a FullStack web developer from Czech Republic.
 ![visitor counter](https://komarev.com/ghpvc/?username=ebrithilnogare&label=Profile%20views&color=0e75b6&style=flat)
 
 <p><a href="https://www.buymeacoffee.com/nogare"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nogare" /></a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

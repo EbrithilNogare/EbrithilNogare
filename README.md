@@ -9,13 +9,13 @@ I'm David, a FullStack web developer from Czech Republic.
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 
-![C](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=cplusplus)
-![C#](https://img.shields.io/badge/-C%23-000?style=for-the-badge&logo=csharp)
-![GLSL](https://img.shields.io/badge/-GLSL-000?style=for-the-badge&logo=opengl)
+[![C](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=c)](https://en.cppreference.com/w/c/language)
+[![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=cplusplus)](https://en.cppreference.com/w/cpp/language)
+[![C#](https://img.shields.io/badge/-C%23-000?style=for-the-badge&logo=csharp)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![GLSL](https://img.shields.io/badge/-GLSL-000?style=for-the-badge&logo=opengl)](https://www.opengl.org/)
 
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=openjdk)

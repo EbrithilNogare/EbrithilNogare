@@ -17,10 +17,10 @@ I'm David, a FullStack web developer from Czech Republic.
 [![C#](https://img.shields.io/badge/-C%23-000?style=for-the-badge&logo=csharp)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![GLSL](https://img.shields.io/badge/-GLSL-000?style=for-the-badge&logo=opengl)](https://www.opengl.org/)
 
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python)
-![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=openjdk)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=for-the-badge&logo=Kotlin)
-![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=PHP&logoColor=007396)
+[![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=openjdk)](https://www.java.com/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=for-the-badge&logo=Kotlin)](https://kotlinlang.org/)
+[![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=PHP&logoColor=007396)](https://www.php.net/)
 
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=MongoDB)

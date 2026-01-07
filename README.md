@@ -1,4 +1,4 @@
-![EbrithilNogare's GitHub stats](https://github-readme-stats.vercel.app/api?username=EbrithilNogare&show_icons=true&theme=tokyonight)
+![EbrithilNogare's GitHub stats](./profile/stats.svg)
 
 ###  Hi there, I'm Nogare
 

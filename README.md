@@ -59,6 +59,3 @@ I'm David, a FullStack web developer from Czech Republic.
 [![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=Git)](https://git-scm.com/)
 [![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=postman)](https://www.postman.com/)
 
-
-
-[![buymeacoffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-fd0?labelColor=000&style=for-the-badge&logo=buymeacoffee)](https://www.buymeacoffee.com/nogare)
